@@ -18,4 +18,10 @@ ProbablyEngine.rotation.register_custom(70, "ProjectNexus", {
 {"114157", },
 {"24275", },
 
+--Interrupt Modifier
+
+{"96231", "modifier.interrupt"}, 
+{"155145", "modifier.interrupt"}, --Blood Elf Paladins only
+
+
 })
