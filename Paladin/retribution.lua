@@ -1,4 +1,4 @@
--- Lont's Paladin/Retribution Rotation Version 0.1.2
+-- Lont's Paladin/Retribution Rotation Version 0.1.1.75
 
 local Combat = {
 
