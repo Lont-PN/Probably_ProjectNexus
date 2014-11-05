@@ -6,12 +6,12 @@ ProbablyEngine.rotation.register_custom(70, "ProjectNexus", {
 {"31884", "modifier.cooldowns" },
 {"105809", {"modifier.cooldowns",
 			"player.holypower < 3" } },
---{#76095", "modifier.cooldowns" }, -- Uses Potion of Mogu Power
+--{"#76095", "modifier.cooldowns" }, -- Uses Potion of Mogu Power
 
 -- Combat Rotation
 
-{"85256", "player.holypower >= 3"}, -- Templar's Verdict
-{"85256", {"player.buff(31884)", "player.buff(105809)", } },
+{"85256", "player.holypower >= 3"}, 
+{"85256", {"player.buff(31884)", "player.buff(105809)", }},
 {"35395", },
 {"20271", },
 {"879", },
