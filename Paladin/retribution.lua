@@ -39,4 +39,4 @@ local togButtons = function()
 	ProbablyEngine.toggle.create('flask', 'Interface\\Icons\\trade_alchemy_potione4', 'Uses Flasks', 'Uses a flask when it expires')
 end
 
-ProbablyEngine.rotation.register_custom(70, "ProjectNexus", Combat, outCombat, togButtons)
+ProbablyEngine.rotation.register_custom(70, "Retribution - by |cffff00ffLont|r", Combat, outCombat, togButtons)
